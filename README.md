@@ -63,8 +63,8 @@ Hola!! Soy Gonzalo Vega
 
 <p align="center">
 <br/>
-<img src="https://i.gifer.com/bfR.gif" width="350" align='left' padding= 10px >
-<img src="https://i.gifer.com/bfR.gif" width="350" align='right' padding= 10px >
+<img src="https://i.gifer.com/bfR.gif" width="300" align='left' padding= 10px >
+<img src="https://i.gifer.com/bfR.gif" width="300" align='right' padding= 10px >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illogons&show_icons=true&theme=gotham)
 
