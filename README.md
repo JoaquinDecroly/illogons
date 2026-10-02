@@ -4,7 +4,8 @@
 
 <h3 align="center">
 Hola!! Soy Gonzalo Vega
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://i.gifer.com/2hk9.gif" width="70">
+   
 </h3>
 
 <p align="center">
@@ -12,6 +13,91 @@ Hola!! Soy Gonzalo Vega
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://www.youtube.com/watch?v=YEzjD-qvIhQ&t=1s" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=GonzaloVega.GonzaloVega"></a>
 </p>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<hr style="height: 1px; border: none; background-color: #30363d;">
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+<br><br>
+
+-  Soy un estudiante de Dam/Daw
+
+-  Sobretodo estoy familiarizado con el back
+
+-  Con ganas de empezar futuros proyectos
+
+-  Ask me about **Java, Python, PHP and NodeJS**
+
+-  Como encontrarme? "gvegon21@gmail.com"
+
+-  Conoce todas mis pocas experiencias
+
+-  
+
+
+<hr style="height: 1px; border: none; background-color: #30363d;">
+
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> ━━━━━━━━━━━[ STATS DOWN ]━━━━━━━━━━━ </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">M Y &nbsp; S T A S T S!</h2> </b>
+
+
+<p align="center">
+<br/>
+<img src="https://i.gifer.com/bfR.gif" width="350" align='left' padding= 10px >
+<img src="https://i.gifer.com/bfR.gif" width="350" align='right' padding= 10px >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloVega&show_icons=true&theme=gotham)
+
+<br>
+<table>
+   <tr>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=GonzaloVega&show_icons=true&theme=gotham" />
+      </td>
+      <td>
+         <img src="http://github-readme-streak-stats.herokuapp.com?user=GonzaloVega&theme=gotham"/>
+      </td>
+   </tr>
+</table>
+
+</p> 
+
+
+</samp>
+</details>
+
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
