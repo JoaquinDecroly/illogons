@@ -61,32 +61,16 @@ Hola!! Soy Gonzalo Vega
  <b><h2 style="color: #fc6203">M Y &nbsp; S T A S T S!</h2> </b>
 
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://i.gifer.com/bfR.gif" width="300" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illogons&show_icons=true&theme=gotham&layout=compact&card_width=300" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://i.gifer.com/bfR.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.gifer.com/bfR.gif" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illogons&theme=gotham&layout=compact&card_width=300" />
+  <img src="https://i.gifer.com/bfR.gif" width="200" />
+</p>
 
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=illogons&show_icons=true&theme=gotham" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=illogons&theme=gotham" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=illogons&show_icons=true&theme=gotham" />
+  <img src="https://streak-stats.demolab.com/?user=illogons&theme=gotham" />
+</p>
 
 
 </samp>
