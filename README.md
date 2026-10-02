@@ -4,16 +4,11 @@
 
 <h3 align="center">
 Hola!! Soy Gonzalo Vega
-  <img src="https://i.gifer.com/2hk9.gif" width="70">
    
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Software+Developer;Siempre+Aprendiendo;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YEzjD-qvIhQ&t=1s" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=GonzaloVega.GonzaloVega"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2998&pause=1000&color=00AEFF&center=true&vCenter=true&width=440&height=45&lines=Junior+Software+Developer;Siempre+Aprendiendo" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -71,16 +66,16 @@ Hola!! Soy Gonzalo Vega
 <img src="https://i.gifer.com/bfR.gif" width="350" align='left' padding= 10px >
 <img src="https://i.gifer.com/bfR.gif" width="350" align='right' padding= 10px >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloVega&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illogons&show_icons=true&theme=gotham)
 
 <br>
 <table>
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=GonzaloVega&show_icons=true&theme=gotham" />
+         <img src="https://github-readme-stats.vercel.app/api?username=illogons&show_icons=true&theme=gotham" />
       </td>
       <td>
-         <img src="http://github-readme-streak-stats.herokuapp.com?user=GonzaloVega&theme=gotham"/>
+         <img src="http://github-readme-streak-stats.herokuapp.com?user=illogons&theme=gotham"/>
       </td>
    </tr>
 </table>
