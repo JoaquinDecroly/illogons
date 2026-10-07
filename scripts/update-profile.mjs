@@ -1,7 +1,7 @@
 
 const API = "https://api.github.com";
 
-const owner = process.env.GITHUB_OWNER || "JoaquinDecroly";
+const owner = process.env.GITHUB_OWNER || "illogons";
 const token = process.env.GITHUB_TOKEN;
 
 if (!token) {
