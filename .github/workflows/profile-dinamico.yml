@@ -30,7 +30,7 @@ jobs:
       - name: Analizar repositorios y actualizar README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_OWNER: JoaquinDecroly
+          GITHUB_OWNER: illogons
         run: node scripts/update-profile.mjs
 
       - name: Guardar cambios
