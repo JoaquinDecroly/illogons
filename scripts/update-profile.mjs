@@ -431,69 +431,6 @@ Herramientas detectadas automáticamente.
 }
 
 /* ─────────────────────────────────────────────
-   PROYECTOS
-   ───────────────────────────────────────────── */
-
-function calculateProjectScore(repo) {
-  const daysSincePush =
-    (Date.now() -
-      new Date(repo.pushed_at).getTime()) /
-    (1000 * 60 * 60 * 24);
-
-  const recencyScore =
-    Math.max(0, 100 - daysSincePush);
-
-  const starsScore =
-    repo.stargazers_count * 10;
-
-  const forksScore =
-    repo.forks_count * 5;
-
-  const sizeScore =
-    Math.min(repo.size / 100, 20);
-
-  return (
-    recencyScore +
-    starsScore +
-    forksScore +
-    sizeScore
-  );
-}
-
-function projectCard(repo) {
-  return `<a href="${repo.html_url}">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=${owner}&repo=${repo.name}&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-</a>`;
-}
-
-async function buildProjects(repos) {
-  const sorted = [...repos]
-    .filter(
-      (repo) =>
-        !repo.name
-          .toLowerCase()
-          .includes("profile")
-    )
-    .sort(
-      (a, b) =>
-        calculateProjectScore(b) -
-        calculateProjectScore(a)
-    );
-
-  const selected = sorted.slice(0, 4);
-
-  if (selected.length === 0) {
-    return `<p align="center">
-Todavía no hay proyectos públicos disponibles.
-</p>`;
-  }
-
-  return selected
-    .map(projectCard)
-    .join("\n\n");
-}
-
-/* ─────────────────────────────────────────────
    REEMPLAZAR BLOQUES AUTOMÁTICOS
    ───────────────────────────────────────────── */
 
@@ -573,15 +510,6 @@ async function main() {
   const environment =
     buildToolIcons(tools);
 
-  /* Proyectos */
-
-  console.log(
-    "Seleccionando proyectos..."
-  );
-
-  const projects =
-    await buildProjects(repos);
-
   /* README */
 
   let readme =
@@ -604,14 +532,6 @@ async function main() {
       "<!-- AUTO-ENV:START -->",
       "<!-- AUTO-ENV:END -->",
       environment
-    );
-
-  readme =
-    replaceSection(
-      readme,
-      "<!-- AUTO-PROJECTS:START -->",
-      "<!-- AUTO-PROJECTS:END -->",
-      projects
     );
 
   await fs.writeFile(
