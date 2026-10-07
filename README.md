@@ -13,13 +13,9 @@ Hola!! Soy Gonzalo Vega
 <div align="center">
 
 <!-- AUTO-STACK:START -->
-
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java&perline=8" alt="Tecnologías detectadas"/>
+</p>
 <!-- AUTO-STACK:END -->
 
 </div>
@@ -27,12 +23,9 @@ Hola!! Soy Gonzalo Vega
 <div align="center">
 
 <!-- AUTO-ENV:START -->
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,maven,spring&perline=8" alt="Entorno de desarrollo"/>
+</p>
 <!-- AUTO-ENV:END -->
 
 </div>
