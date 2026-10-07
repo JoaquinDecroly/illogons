@@ -4,7 +4,7 @@
 
 <h3 align="center">
 Hola!! Soy Gonzalo Vega
-   
+
 </h3>
 
 <p align="center">
@@ -12,54 +12,61 @@ Hola!! Soy Gonzalo Vega
 </p>
 
 <div align="center">
+
+<!-- AUTO-STACK:START -->
+
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+
+<!-- AUTO-STACK:END -->
+
 </div>
 
 <div align="center">
+
+<!-- AUTO-ENV:START -->
+
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+
+<!-- AUTO-ENV:END -->
+
 </div>
 
 <hr style="height: 1px; border: none; background-color: #30363d;">
 
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 <br><br>
 
--  Soy un estudiante de Dam/Daw
+* Soy un estudiante de Dam/Daw
 
--  Sobretodo estoy familiarizado con el back
+* Sobretodo estoy familiarizado con el back
 
--  Con ganas de empezar futuros proyectos
+* Con ganas de empezar futuros proyectos
 
--  Como encontrarme? "gvegon21@gmail.com"
+* Como encontrarme? "[gvegon21@gmail.com](mailto:gvegon21@gmail.com)"
 
--  Conoce todas mis pocas experiencias
+* Conoce todas mis pocas experiencias
 
--  Fan de SpringBoot
+* Fan de SpringBoot
 
--  "Linux fan"
-
+* "Linux fan"
 
 <hr style="height: 1px; border: none; background-color: #30363d;">
 
-
 </p>
-
 
 <details align="center" >
 
 <summary> <b> <samp> ━━━━━━━━━━━[  CLICK FOR STATS ]━━━━━━━━━━━ </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">M Y &nbsp; S T A S T S!</h2> </b>
-
 
 <p align="center">
   <img src="https://i.gifer.com/bfR.gif" width="200" />
@@ -71,7 +78,6 @@ Hola!! Soy Gonzalo Vega
   <img src="https://github-readme-stats.vercel.app/api?username=illogons&show_icons=true&theme=gotham&card_width=400" width="400" />
   <img src="https://streak-stats.demolab.com/?user=illogons&theme=gotham" width="400" />
 </p>
-
 
 </samp>
 </details>
